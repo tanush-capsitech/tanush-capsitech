@@ -1,134 +1,161 @@
-# <h1 align="center">Hi 👋, I'm Tanush Saini</h1>
+# <div align="center">🖥️ TanushOS</div>
 
-<h3 align="center">MERN Stack Developer • Building Scalable Web Applications • Exploring System Design & AI</h3>
+```terminal
+──────────────────────────────────────────────────────────────
+Connecting to github.com...
+Authenticating...
+Authentication Successful ✔
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Applications;Currently+Learning+System+Design+%26+Microservices" alt="Typing SVG" />
-</p>
+Welcome to TanushOS v2.1
+Kernel : Software Engineer
+Status : ONLINE
+──────────────────────────────────────────────────────────────
+```
 
----
+```bash
+$ whoami
+Tanush Saini
 
-## 🚀 About Me
+$ role
+MERN Stack Engineer
 
-* 💼 MERN Stack Developer with **1+ year of professional experience**
-* 🔭 Working on scalable real-time collaboration platforms
-* 🌱 Currently learning **Microservices, Docker, Kubernetes, Kafka, Redis, AWS & AI**
-* 💬 Ask me about **React, TypeScript, Redux Toolkit, React Query, Node.js, Express, MongoDB & WebRTC**
-* 🎯 Goal: Become a world-class Software Engineer building distributed systems.
+$ experience
+1+ Years
 
----
+$ location
+India
+```
 
-## 🛠️ Tech Stack
+## Developer Service
 
-### Frontend
+```bash
+$ systemctl status engineer.service
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux,vite" />
-</p>
+● engineer.service - active (running)
 
-### Backend
+Current Task:
+→ Building scalable web applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Current Focus:
+→ React
+→ Node.js
+→ System Design
+→ AI
+```
 
-### Database
+## Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+```bash
+$ tree ~/skills
 
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,azure,jenkins,nginx" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash,npm,yarn" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,python" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanush-capsitech&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush-capsitech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanush-capsitech&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
+skills
+├── frontend
+│   ├── React
+│   ├── TypeScript
+│   ├── Redux Toolkit
+│   └── React Query
+├── backend
+│   ├── Node.js
+│   ├── Express
+│   └── REST APIs
+├── database
+│   ├── MongoDB
+│   └── Mongoose
+├── realtime
+│   ├── Socket.IO
+│   └── WebRTC
+└── devops
+    ├── Docker
+    ├── Git
+    ├── Azure
+    └── Linux
+```
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanush-capsitech&theme=tokyo-night"/>
-
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,redux,docker,redis,kubernetes,git,github,vscode,postman,azure,linux"/>
 </p>
 
----
+## Projects
 
-## 💻 What I Work With
+```bash
+$ ls ~/projects
 
-* ⚛️ React.js
-* 📘 TypeScript
-* 🟨 JavaScript (ES6+)
-* 🔄 Redux Toolkit
-* ⚡ React Query
-* 🌐 REST APIs
-* 🚀 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
-* 🔌 Socket.IO
-* 📹 WebRTC
-* 🐳 Docker
-* ☸️ Kubernetes
-* 📬 Kafka
-* 📦 Redis
+CapsiCore/
+AI-EV-Ecosystem/
+Portfolio/
+```
 
----
+```bash
+$ cat CapsiCore/README
 
-## 🌐 Connect With Me
+Enterprise collaboration platform
 
-<p>
+✔ Real-time Messaging
+✔ Audio & Video Calling
+✔ Teams & Communities
+✔ Workspaces
+✔ Electron Support
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+Stack:
+React • Node.js • MongoDB • Socket.IO • WebRTC
+```
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+## Roadmap
 
+```text
+███████████████ React
+███████████████ Node.js
+██████████████ MongoDB
+███████████░░░ Docker
+████████░░░░░ Kubernetes
+███████░░░░░░ Kafka
+█████░░░░░░░░ AWS
+████░░░░░░░░░ AI
+```
+
+## Philosophy
+
+```bash
+$ cat philosophy.txt
+
+> Build for users.
+> Keep it simple.
+> Measure before optimizing.
+> Learn continuously.
+```
+
+## GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanush-capsitech&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=tanush-capsitech&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanush-capsitech&theme=github-dark"/>
+</p>
 
-## 💭 Favourite Quote
+## Connect
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+```bash
+$ connect
 
----
+GitHub
+github.com/tanush-capsitech
 
+LinkedIn
+linkedin.com/in/tanush-saini-456137263
+
+Email
+sainitanush09@gmail.com
+```
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tanush-capsitech&label=PROFILE+VIEWS&style=for-the-badge"/>
+</p>
+
+```terminal
+Last Login : Today
+Status     : Coding...
+Thanks for visiting TanushOS 🚀
+```
